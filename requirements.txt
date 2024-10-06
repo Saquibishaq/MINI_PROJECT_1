@@ -1,0 +1,6 @@
+requests
+gtts
+transformers
+moviepy
+Pillow
+spacy
